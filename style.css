@@ -416,8 +416,9 @@ progress::-moz-progress-bar {
 /* ************************** Utilities ******************************/
 .avatar {
     border-radius: 50%;
-    width: 150px;
-    height: 150px;
+    width: 280px;
+    height: 280px;
+    margin: 0 3.5rem;
 }
 
 
